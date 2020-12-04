@@ -1,5 +1,7 @@
 # aroesec's CDK Project
 
+Never Write a Gosh Darn YAML File in The Cloud Again (Don't show this to devops)
+
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 ## Useful commands
